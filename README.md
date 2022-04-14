@@ -12,7 +12,7 @@ This repository contains some settings that together with the vivaldifox add-on 
 
 
 # How to download and install
-1. [Click here to download](https://github.com/Neikon/Almost-Dark-Grey-Colorfull-Proton---FirefoxCSS-Themes/releases) or Click in `Releases` on the right side of this page.
+1. [Click here to download](https://github.com/Neikon/Almost-Dark-Grey-Colorfull-Proton---FirefoxCSS-Themes/releases) or Click in `Releases` on the right side of this page. Or download this repository clicking in green button "Code" and download ZIP. [Direct link to Download Zip](https://github.com/Neikon/AutoColor-Minimal-Proton/archive/refs/heads/master.zip)
 2. Open a new tab in firefox and write in url bar `about:support` you should see a list with your firefox data, You only need **"Profile folder"** , you can now click in "Open folder" button o copy the address to your profile folder.
     the address should be similar to following example depend of your system:
     + Linux - `$HOME/.mozilla/firefox/XXXXXXX.default-XXXXXX/`
