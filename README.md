@@ -1,4 +1,4 @@
-#  Minimal-VivaldiFox-Theme
+#  AutoColor-Minimal-Proton
 
 This repository contains some settings that together with the vivaldifox add-on create a minimalist theme whose color is the color of the website you are visiting. 
 
