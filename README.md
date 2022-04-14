@@ -25,11 +25,7 @@ This repository contains some settings that together with the vivaldifox add-on 
 9. Restart Firefox
 10. That's all, after restarting you should be seeing your new topic
 
-**If you see any things in white maybe you need to activate dark colors in firefox**
- + Go to Firefox 3 lines menu -> Customize
- + At the bottom of the page there is a button called `themes` click it and set to `Dark`
-
-# Color underline in pinned tab
+# Color line in pinned tab
 + Those tabs are simply in a container and I have adjusted the colors of those containers to match.
 
 # Download Vivaldifox
