@@ -4,11 +4,12 @@ This repository contains some settings that together with the vivaldifox add-on 
 
 # Screenshots
 
-![screenshot1](https://github.com/Neikon/Minimal-VivaldiFox-Theme/blob/master/screenshots/Captura%20de%20pantalla%202022-04-14%20155447.png)
+![screenshot1](https://github.com/Neikon/Minimal-VivaldiFox-Theme/blob/master/screenshots/Captura%20de%20pantalla%202022-04-14%20155152.png)
 ![screenshot2](https://github.com/Neikon/Minimal-VivaldiFox-Theme/blob/master/screenshots/Captura%20de%20pantalla%202022-04-14%20155405.png)
 ![screenshot3](https://github.com/Neikon/Minimal-VivaldiFox-Theme/blob/master/screenshots/Captura%20de%20pantalla%202022-04-14%20155248.png)
 ![screenshot4](https://github.com/Neikon/Minimal-VivaldiFox-Theme/blob/master/screenshots/Captura%20de%20pantalla%202022-04-14%20155227.png)
-![screenshot5](https://github.com/Neikon/Minimal-VivaldiFox-Theme/blob/master/screenshots/Captura%20de%20pantalla%202022-04-14%20155152.png)
+![screenshot5](https://github.com/Neikon/Minimal-VivaldiFox-Theme/blob/master/screenshots/Captura%20de%20pantalla%202022-04-14%20155447.png)
+
 
 # How to download and install
 1. [Click here to download](https://github.com/Neikon/Almost-Dark-Grey-Colorfull-Proton---FirefoxCSS-Themes/releases) or Click in `Releases` on the right side of this page.
