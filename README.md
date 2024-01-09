@@ -23,3 +23,8 @@ You can install one of these extensions to change your theme dynamically based o
 
 -   When using [Adaptive Tab Bar Colour](https://addons.mozilla.org/firefox/addon/adaptive-tab-bar-colour/), setting toolbar background to the lowest value makes it completely transparent
 -   Sometimes the whole browser window flashes, for reasons unknown
+
+## Might be added in the future
+
+-   Tab separators
+-   Styled context menus
