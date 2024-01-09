@@ -1,43 +1,25 @@
-#  AutoColor-Minimal-Proton
+# Autocolor Minimal
 
-This repository contains some settings that together with the vivaldifox add-on create a minimalist theme whose color is the color of the website you are visiting. 
+> A fork of [AutoColor-Minimal-Proton](https://github.com/Neikon/AutoColor-Minimal-Proton) with a few tweaks from [ff-better-tabs](https://github.com/nikkehtine/ff-better-tabs)
 
-# Screenshots
+## Installing
 
-![screenshot1](https://github.com/Neikon/Minimal-VivaldiFox-Theme/blob/master/screenshots/Captura%20de%20pantalla%202022-04-14%20155152.png)
-![screenshot2](https://github.com/Neikon/Minimal-VivaldiFox-Theme/blob/master/screenshots/Captura%20de%20pantalla%202022-04-14%20155405.png)
-![screenshot3](https://github.com/Neikon/Minimal-VivaldiFox-Theme/blob/master/screenshots/Captura%20de%20pantalla%202022-04-14%20155248.png)
-![screenshot4](https://github.com/Neikon/Minimal-VivaldiFox-Theme/blob/master/screenshots/Captura%20de%20pantalla%202022-04-14%20155227.png)
-![screenshot5](https://github.com/Neikon/Minimal-VivaldiFox-Theme/blob/master/screenshots/Captura%20de%20pantalla%202022-04-14%20155447.png)
+1. Download this repository
+2. Go to `about:config`
+3. Set `toolkit.legacyUserProfileCustomizations.stylesheets` to `true`
+4. Go to `about:support`
+5. Open the **current profile folder**
+6. Copy the `chrome` folder from this repository to the profile folder you just opened
+7. Close all open Firefox windows and open Firefox again
 
+## Adaptive theme
 
-# How to download and install
-1. [Click here to download](https://github.com/Neikon/Almost-Dark-Grey-Colorfull-Proton---FirefoxCSS-Themes/releases) or Click in `Releases` on the right side of this page. Or download this repository clicking in green button "Code" and download ZIP. [Direct link to Download Zip](https://github.com/Neikon/AutoColor-Minimal-Proton/archive/refs/heads/master.zip)
-2. Open a new tab in firefox and write in url bar `about:support` you should see a list with your firefox data, You only need **"Profile folder"** , you can now click in "Open folder" button o copy the address to your profile folder.
-    the address should be similar to following example depend of your system:
-    + Linux - `$HOME/.mozilla/firefox/XXXXXXX.default-XXXXXX/`
-	+ Windows 10 - `C:\Users\<USERNAME>\AppData\Roaming\Mozilla\Firefox\Profiles\XXX.default-XXX`
-	+ macOS - `Users/<USERNAME>/Library/Application Support/Firefox/Profiles/XXXXXXX.default-XXXXXXX`
-3. Go to that folder.
-4. if there is no folder called `chrome`. Create it.
-5. Extract the contents of the zip file you downloaded in the first step into the folder `chrome`
-    + it should look something like this: 
-    ```
-    chrome/
-          |- useschrome.css
-          |- useContent.css
-          |- image/
-    ```
-6. Now go to firefox open a new tab and write `about:config` in the url bar
-7. A dialog will warn you, but ignore it, just do it press the `I accept the risk!` button.
-8. Search this `toolkit.legacyUserProfileCustomizations.stylesheets` and set to **true**.
-9. Restart Firefox
-10. That's all, after restarting you should be seeing your new topic
+You can install one of these extensions to change your theme dynamically based on the website you're on:
 
-# Color line in pinned tab
-+ Those tabs are simply in a container and I have adjusted the colors of those containers to match.
+-   [Adaptive Tab Bar Colour](https://addons.mozilla.org/firefox/addon/adaptive-tab-bar-colour/)
+-   [VivaldiFox](https://addons.mozilla.org/firefox/addon/vivaldifox/)
 
-# Download Vivaldifox
-[VivaldiFox from Mozilla add-ons](https://addons.mozilla.org/es/firefox/addon/vivaldifox/)
+## Known issues
 
-Configure Vivaldifox as the images you can find in this repository folder in [Minimal-VivaldiFox-Theme/VivaldiFox config screenshots/](https://github.com/Neikon/Minimal-VivaldiFox-Theme/tree/master/VivaldiFox%20config%20screenshots)
+-   When using [Adaptive Tab Bar Colour](https://addons.mozilla.org/firefox/addon/adaptive-tab-bar-colour/), setting toolbar background to the lowest value makes it completely transparent
+-   Sometimes the whole browser window flashes, for reasons unknown
