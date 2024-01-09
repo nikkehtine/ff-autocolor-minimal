@@ -2,6 +2,8 @@
 
 > A fork of [AutoColor-Minimal-Proton](https://github.com/Neikon/AutoColor-Minimal-Proton) with a few tweaks from [ff-better-tabs](https://github.com/nikkehtine/ff-better-tabs)
 
+![Screenshot showcasing the theme](screenshot.png)
+
 ## Installing
 
 1. Download this repository
