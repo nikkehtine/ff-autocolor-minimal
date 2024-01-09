@@ -17,10 +17,9 @@
 
 /* Tab bar */
 
-/* Remove/shrink the space on the left of the tab bar */
+/* Remove the space on the left of the tab bar */
 .titlebar-spacer[type="pre-tabs"] {
-    /* display: none !important; */
-    width: 1.25rem !important;
+    display: none !important;
 }
 
 /* Also remove the separator */
